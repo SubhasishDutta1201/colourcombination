@@ -15,7 +15,7 @@ Materials Required
 8. Common Anode RGB LED - to visualize the sensed values, here the colours.
 9. CR2032 Cell Battery - to power the entire circuit.
 10. Sewable Cell Battery Holder
-11. Crocodile Wires - to check the connections and functioning of the pressure sensors.
+11. Multimeter and Crocodile Wires - to check the connections and functioning of the pressure sensors.
 
 Implementation (A High Level View)
 
