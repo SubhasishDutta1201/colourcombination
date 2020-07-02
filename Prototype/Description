@@ -1,1 +1,3 @@
+File: Layout gives an idea about how the three pressure sensors will be placed on the 15x15 frame with the RGB LED resting on top of a double layered white paper. This white paper is attached to the front of the frame to improve upon the feedback provided by the RGB LED as it will reflect the light emitted by the LED.
+
 In the first prototype [file: PressureSensor_1], the pressure sensor is created in the exact same way as shown in the Layered View in README. In the second prototype [file: PressureSensor_2 and file:PressureSensorComponents], the various components are cut in a different way. The square shapes of the fabrics gives is easier to cut than a round shape and also the shape will help in sewing together the materials.
