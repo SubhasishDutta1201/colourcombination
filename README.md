@@ -17,6 +17,8 @@ Materials Required
 10. Sewable Cell Battery Holder
 11. Crocodile Wires - to check the connections and functioning of the pressure sensors.
 
+https://user-images.githubusercontent.com/67683277/86340210-dbda1a00-bc54-11ea-9f3e-b3eaf0242285.jpg
+
 References
 
 [1] https://www.instructables.com/id/Flexible-Fabric-Pressure-Sensor/
