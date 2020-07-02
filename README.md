@@ -12,12 +12,14 @@ Materials Required
 6. Thread and needle - to sew the fabrics together and to make the connections.
 7. Clothing Iron - to iron on the fabric and the Iron on adhesive to be affixed to the conductive fabrics
 8. Velostat - to separate the two conductive fabrics from physically touching each other in order to protect from electrostatic discharge.
-8. RGB LED - to visualize the sensed values, here the colours.
+8. Common Anode RGB LED - to visualize the sensed values, here the colours.
 9. CR2032 Cell Battery - to power the entire circuit.
 10. Sewable Cell Battery Holder
 11. Crocodile Wires - to check the connections and functioning of the pressure sensors.
 
-https://user-images.githubusercontent.com/67683277/86340210-dbda1a00-bc54-11ea-9f3e-b3eaf0242285.jpg
+Implementation (A High Level View)
+
+To make the three pressure sensors, 6 pieces each of conductive and non-conductive fabrics are cut in the desired shape and three velostats. Then all these fabrics are attached to each other as shown in the image: https://user-images.githubusercontent.com/67683277/86340210-dbda1a00-bc54-11ea-9f3e-b3eaf0242285.jpg . Likewise, three such pressure sensors are created. Then the leads from the pressure sensors are connected to the three corresponding leads (R,G,B) of the RGB LED to control the colour feedback and the common anode lead to the positive terminal of the battery.  Pressing any of the three pressure sensors individually will trigger the LED to emit either red, green or blue colours. On pressing two of these three sensors together, the RGB LED will get triggered to emit either yellow, cyan or magenta and on pressing all three, the LED will emit white light. For further clarity on how the schematic will look like, follow 
 
 References
 
