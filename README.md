@@ -1,6 +1,6 @@
 Project Title: Colour Combination using RGB LED and Fabric Pressure Sensors
 
-About: Based on colour theory, we know that using the three primary colours ( green and blue), we can create a wide range of colours. Each primary colour uses 8 bits, with an integer value ranging from 0-255. Combining all three primary colours we can create 256^3= 16,777,216 colours. In this project, we will deal with a small range of colours specifically seven the three primary colours (red, green and blue), the three secondary colours (magenta, cyan and yellow) and white.
+About: Based on colour theory, we know that using the three primary colours ( green and blue), we can create a wide range of colours. Each primary colour uses 8 bits, with an integer value ranging from 0-255. Combining all three primary colours we can create 256^3= 16,777,216 colours. In this project, we will deal with a small range of colours specifically seven - the three primary colours (red, green and blue), the three secondary colours (magenta, cyan and yellow) and white.
 
 Materials Required
 
